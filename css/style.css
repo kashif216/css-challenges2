@@ -1,0 +1,142 @@
+.container{
+    margin: 0 auto;
+ }
+ 
+
+ body{
+     text-align: center;
+     font-family: 'Roboto';font-size: 22px;
+     font-size: 21px;
+ 
+ }
+ h1{
+     font-size: 80px;
+     font-weight: 5;
+ }
+ h1{
+    color: white;
+ }
+ h2{
+     font-size: 42px;
+     font-weight: 170;
+     
+ }
+ h3{
+     font-size: 36px;
+ }
+ #para2{
+     font-size: 16px;
+ }
+ .bold-text{
+     font-weight: 900;
+     display: block;
+ }
+ .bold-text{
+    color: #99D930;
+ }
+ h1.bold-text{
+     font-size: 80px;
+ }
+ h2.bold-text{
+     font-size: 60px;
+ }
+ .about-me{
+     background-color:  #FFEAEA;
+     padding-top: 100px;
+     padding-bottom: 100px;
+ 
+ }
+ .article{
+     background-color: #252525;
+     padding-top: 100px;
+     padding-bottom: 100px;
+ }
+ header{
+     background-color: #252525;
+     padding-top: 100px;
+     padding-bottom: 100px;
+ }
+ article{
+     margin: auto;
+ }
+ a{
+     color: #99D930;
+ }
+ a:hover{
+     color:  #131313;
+ }
+ .circle-image {
+    width: 300px; /* Adjust this according to your needs */
+    height: 300px; /* Adjust this according to your needs */
+    border-radius: 50%;
+    overflow: hidden; /* This ensures that the image stays within the circle */
+    margin: 0 auto; /* Center the circle horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-image img {
+    width: 130%; /* Ensure the image doesn't exceed the circle's width */
+    height: 130%; /* Ensure the image doesn't exceed the circle's height */
+    object-fit: cover; /* This ensures the image covers the entire circle */
+    border-radius: 50%; /* Ensure the image retains the circular shape */
+}
+ 
+
+/* ==========css part2=========== */
+.bg-black {
+    background-color: #252525;
+    color: #fff;
+  }
+  .article{
+    color: #fff;
+  }
+  h1,
+  h2 {
+    margin-top: 0;
+  
+  }
+  h3 {
+    margin-bottom: 0;
+  }
+  .small {
+    margin-top: 0;
+  }
+  .btn {
+    padding: 8px 12px;
+    background-color: #99d930;
+    color: #252525;
+    font-weight: 700;
+  }
+  .btn:hover {
+    color: #fff;
+    background-color: #252525;
+    cursor: pointer;
+    transition: all 0.71s ease;
+  }
+  h2 {
+    border-top: 1px solid #c4c4c4;
+    border-bottom: 1px solid #c4c4c4;
+    display: inline-block;
+  }
+  h1{
+      font-size: 80px;
+  }
+  h2{
+      font-size: 60px;
+  }
+  
+  article> .btn:hover{
+    background: #fff;
+    color: #252525;
+}
+
+
+
+
+
+
+ 
+
+ 
